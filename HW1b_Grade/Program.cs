@@ -1,6 +1,6 @@
 ﻿// HW1b Grade
 
-// Your Name:
+// Your Name: Jackson Koch
 // Did you seek help ? If yes, specify the helper or web link here: 
 
 using System;
@@ -15,6 +15,7 @@ namespace HW1b_Grade
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
