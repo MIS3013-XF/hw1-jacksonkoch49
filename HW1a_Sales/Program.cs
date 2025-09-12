@@ -27,7 +27,7 @@ namespace HW1a_Sales
             double price = Convert.ToDouble(priceAsString);
             double subtotal = price * quantity;
             double tax = subtotal * sales;
-            double final = tax + subtotal
+            double final = tax + subtotal;
             Console.WriteLine($"Your subtotal for your bill is {subtotal:C}");
             Console.WriteLine($"Your sales tax for your bill is {tax:C}");
             Console.WriteLine($"Your total for your bill is {final:C}");
